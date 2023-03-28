@@ -16,7 +16,7 @@ const swiper = new Swiper(".swiper", {
   },
 });
 
-/* =============== toggle icon navbar ================== */
+/* =============== toggle  icon navbar ================== */
 
 let menuIcon = document.querySelector("#menu-icon");
 let navbar = document.querySelector(".navbar");
