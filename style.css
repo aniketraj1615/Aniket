@@ -16,7 +16,7 @@
   --bg-color: #1f242d;
   --second-bg-color: #323946;
   --text-color: #fff;
-  --main-color: #0ef;
+  --main-color: #03c988;
 }
 html {
   font-size: 62.5%;
@@ -72,6 +72,14 @@ section {
 }
 
 /* home  */
+video {
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -2;
+}
 
 .home {
   display: flex;
